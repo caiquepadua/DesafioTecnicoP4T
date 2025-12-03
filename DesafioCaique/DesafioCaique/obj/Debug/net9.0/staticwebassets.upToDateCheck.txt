@@ -1,0 +1,4 @@
+wwwroot\Pedidos.html
+wwwroot\Produtos.html
+C:\Users\Caique Gomes\Documents\DesafioCaique\DesafioCaique\DesafioCaique\wwwroot\Pedidos.html
+C:\Users\Caique Gomes\Documents\DesafioCaique\DesafioCaique\DesafioCaique\wwwroot\Produtos.html
